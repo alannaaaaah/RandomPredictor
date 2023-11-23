@@ -8,7 +8,7 @@ What if human generated randomness is not random? Is there a pattern to the huma
 My hypothesis theory is that there is a non-normal distriubtion to HGR-samples. 
 
 Using ML, I want to answer the question:
-<b Is there a non-normal distribution to human-generated-random samples? >
+<b> Is there a non-normal distribution to human-generated-random samples? </b>
 
 And additionally, I want to study the following:
 - What is the distribution of the HGR-samples
