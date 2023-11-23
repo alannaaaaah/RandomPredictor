@@ -13,3 +13,6 @@ Using ML, I want to answer the question:
 And additionally, I want to study the following:
 - What is the distribution of the HGR-samples
 - Can I model a sochastic model, where given i-th sample, I can predict the i+1-th sample with some probability
+
+# Prerequisite
+`conda install --file requirements.txt`

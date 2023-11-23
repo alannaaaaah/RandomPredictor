@@ -1,0 +1,6 @@
+conda container 
+- Name: 
+    RandPred
+- Configure:
+    python 3.8
+    requirements.txt

@@ -1,0 +1,3 @@
+Each csv file represent one target HGR 
+where each row is one sample, with a x-values of dimension 10, and a y-value of dimension 1 at the end
+So each row is dimension 11, with x and y values
